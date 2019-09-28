@@ -28,6 +28,6 @@ function switchAge(age) {
     return ("You are a teenager")
   } else if (age<13) {
     return ("You are a kid")
-  } else return ("You are a grownup")
+  } else return ("You have an age")
 
 }
